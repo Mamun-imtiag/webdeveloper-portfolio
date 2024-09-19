@@ -23,6 +23,7 @@ nav {
   display: flex;
   align-items:center;
   justify-content: space-between;
+  margin: 0 220px;
 }
 .nav-title {
   color: #181818;
@@ -40,4 +41,21 @@ nav li {
 }
 nav li a {
   text-decoration: none;
+}
+
+/* header related styles */
+.header{
+   background: #FFF8F3;
+  
+}
+
+.banner{
+    /* margin:47px 38px 130px 230px ; */
+    padding: 20px 20px 130px 220px ;
+    display: flex;
+   align-items: center;
+}
+
+.banner-profile-pic{
+   width: 500px;
 }
