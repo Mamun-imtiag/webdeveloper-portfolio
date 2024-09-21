@@ -158,7 +158,15 @@ font-size: 30px;
 font-weight: 700;
  
 }
-.resume-container{
+.resume-container{  
   display: flex;
   gap: 50px;
 }
+ /* footer styles */
+
+ footer{
+  display: flex;
+  background:#FFF8F3 ;
+  margin-top: 100px;
+  padding: 130px 200px;
+ }
